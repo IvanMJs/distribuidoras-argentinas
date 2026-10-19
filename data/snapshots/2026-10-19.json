@@ -1,0 +1,311 @@
+{
+  "fecha_corrida": "2026-10-19T16:31:32.575Z",
+  "user_agent": "DistribuidorasArgentinasBot/0.1 (+https://github.com/IvanMJs/distribuidoras-argentinas; relevamiento semanal de transparencia)",
+  "resultados": [
+    {
+      "distribuidora": "epe",
+      "criterio": "calidad_servicio",
+      "url": "https://epe.santafe.gov.ar/institucional/informacion-tecnica",
+      "fecha_consulta": "2026-10-19T16:31:32.575Z",
+      "http_status": 200,
+      "hash_sha256": "8f2644eecdd64ae7f2481504d044a98be8fba22f2e5e6e1b23b54eb0658ce9b8",
+      "bytes": 67759,
+      "content_type": "text/html",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "epe",
+      "criterio": "cortes",
+      "url": "https://epe.santafe.gov.ar/institucional/trabajos-programados",
+      "fecha_consulta": "2026-10-19T16:31:36.570Z",
+      "http_status": 200,
+      "hash_sha256": "08954928f0e5d1081544a3754dde2b5f845438e5a8af9eb11d72acf2fc34a5ec",
+      "bytes": 51119,
+      "content_type": "text/html",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "epe",
+      "criterio": "obras",
+      "url": "https://epe.santafe.gov.ar/institucional/epe-obras",
+      "fecha_consulta": "2026-10-19T16:31:38.541Z",
+      "http_status": 200,
+      "hash_sha256": "efbccf02de269d0bd3e8c8a5436fb3a19e8f0e6225a8e05b32d7bfb87fecc561",
+      "bytes": 34919,
+      "content_type": "text/html",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "epec",
+      "criterio": "estados_contables",
+      "url": "https://www.epec.com.ar/docs/transparencia/estados-contables-2024.pdf",
+      "fecha_consulta": "2026-10-19T16:31:38.850Z",
+      "http_status": 200,
+      "hash_sha256": "1c09a7afa0afad35753787ada60d86731b3531800b74b4d64aa76d629f359bfc",
+      "bytes": 9292167,
+      "content_type": "application/pdf",
+      "fecha_documento_detectada": "2025-03-11",
+      "metodo_fecha": "metadatos del PDF",
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "epec",
+      "criterio": "cuadro_tarifario",
+      "url": "https://ersep.cba.gov.ar/wp-content/uploads/2024/06/RG-76-2024-Modificacion-cuadro-tarifario-EPEC-MEM-0521-077458-2024_firmado_firmado_firmado_firmado_firmado_firmado_firmado.pdf",
+      "fecha_consulta": "2026-10-19T16:31:42.382Z",
+      "http_status": 403,
+      "hash_sha256": null,
+      "bytes": 919,
+      "content_type": "text/html",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "http_error",
+      "detalle": "HTTP 403"
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "cuadro_tarifario",
+      "url": "https://www.edenor.com/institucional/estructura-tarifaria",
+      "fecha_consulta": "2026-10-19T16:31:42.958Z",
+      "http_status": 200,
+      "hash_sha256": "257d807a0131d52bd9a80b9bfe6fc3d210728e59f829900183fc2e670d6c1b83",
+      "bytes": 380116,
+      "content_type": "text/html; charset=utf-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "estados_contables",
+      "url": "https://www.edenor.com/inversores/es/informacion-financiera/memoria-y-estados-financieros",
+      "fecha_consulta": "2026-10-19T16:31:44.703Z",
+      "http_status": 200,
+      "hash_sha256": "39f8df1ec45d7e19372b7236b8a79e824187930f144a146d76f09e8610d3cbff",
+      "bytes": 457496,
+      "content_type": "text/html; charset=utf-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "cortes",
+      "url": "https://www.edenor.com/hogares-y-comercios/servicio-tecnico/cortes-programados",
+      "fecha_consulta": "2026-10-19T16:31:46.539Z",
+      "http_status": 200,
+      "hash_sha256": "f3d02813bfaa64b081e63c1670ac1023335bec82e63fd29face0d971f2c560e6",
+      "bytes": 374336,
+      "content_type": "text/html; charset=utf-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "obras",
+      "url": "https://www.edenor.com/obras",
+      "fecha_consulta": "2026-10-19T16:31:48.053Z",
+      "http_status": 200,
+      "hash_sha256": "67222f6b59c1a447154552c73166520cb80bfe6717a55ba9a70be29bf084836e",
+      "bytes": 387086,
+      "content_type": "text/html; charset=utf-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cuadro_tarifario",
+      "url": "https://www.edesur.com.ar/tarifas-cuadro-tarifario/",
+      "fecha_consulta": "2026-10-19T16:31:48.068Z",
+      "http_status": 200,
+      "hash_sha256": "9450d020de6e9cab5ff38b075dbdf090d15a940fb49a1b3f9546b7b66493311f",
+      "bytes": 154171,
+      "content_type": "text/html; charset=UTF-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "estados_contables",
+      "url": "https://www.edesur.com.ar/acerca-de-edesur/informacion-financiera/",
+      "fecha_consulta": "2026-10-19T16:31:50.529Z",
+      "http_status": 200,
+      "hash_sha256": "daf578b20b3f89a77e30f6f9584a6867f8dcedc62f5a003c5886615aa2fb9def",
+      "bytes": 152190,
+      "content_type": "text/html; charset=UTF-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "calidad_servicio",
+      "url": "https://www.edesur.com.ar/acerca-de-edesur/calidad-del-servicio/",
+      "fecha_consulta": "2026-10-19T16:31:52.481Z",
+      "http_status": 200,
+      "hash_sha256": "526846e8b26be31e6100d60590e232ca6a673985ab47d859d909ff4e032a7549",
+      "bytes": 152556,
+      "content_type": "text/html; charset=UTF-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cortes",
+      "url": "https://www.edesur.com.ar/servicios-al-cliente/cortes-programados/",
+      "fecha_consulta": "2026-10-19T16:31:54.161Z",
+      "http_status": 200,
+      "hash_sha256": "b29fbeff3ee5164fbcaaf743dc9453a9db932ad790d7e14920ffc153ae8e9759",
+      "bytes": 150573,
+      "content_type": "text/html; charset=UTF-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cortes",
+      "url": "https://www.argentina.gob.ar/enre/estado-del-servicio-electrico-de-edesur",
+      "fecha_consulta": "2026-10-19T16:31:54.684Z",
+      "http_status": 200,
+      "hash_sha256": "4567c26066053bab17d3a3472f8e2c908a9c38c97a2507735db7d757015a985f",
+      "bytes": 25076,
+      "content_type": "text/html; charset=utf-8",
+      "fecha_documento_detectada": null,
+      "metodo_fecha": null,
+      "resultado": "ok"
+    }
+  ],
+  "cambios": [
+    {
+      "distribuidora": "epe",
+      "criterio": "calidad_servicio",
+      "url": "https://epe.santafe.gov.ar/institucional/informacion-tecnica",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "epe",
+      "criterio": "cortes",
+      "url": "https://epe.santafe.gov.ar/institucional/trabajos-programados",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "epe",
+      "criterio": "obras",
+      "url": "https://epe.santafe.gov.ar/institucional/epe-obras",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "epec",
+      "criterio": "estados_contables",
+      "url": "https://www.epec.com.ar/docs/transparencia/estados-contables-2024.pdf",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "epec",
+      "criterio": "estados_contables",
+      "url": "https://www.epec.com.ar/docs/transparencia/estados-contables-2024.pdf",
+      "tipo": "documento_desactualizado",
+      "detalle": "El documento (fecha 2024) superó el plazo de vigencia.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "epec",
+      "criterio": "cuadro_tarifario",
+      "url": "https://ersep.cba.gov.ar/wp-content/uploads/2024/06/RG-76-2024-Modificacion-cuadro-tarifario-EPEC-MEM-0521-077458-2024_firmado_firmado_firmado_firmado_firmado_firmado_firmado.pdf",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el servidor respondió con error (HTTP 403).",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "cuadro_tarifario",
+      "url": "https://www.edenor.com/institucional/estructura-tarifaria",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "estados_contables",
+      "url": "https://www.edenor.com/inversores/es/informacion-financiera/memoria-y-estados-financieros",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "cortes",
+      "url": "https://www.edenor.com/hogares-y-comercios/servicio-tecnico/cortes-programados",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edenor",
+      "criterio": "obras",
+      "url": "https://www.edenor.com/obras",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cuadro_tarifario",
+      "url": "https://www.edesur.com.ar/tarifas-cuadro-tarifario/",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "estados_contables",
+      "url": "https://www.edesur.com.ar/acerca-de-edesur/informacion-financiera/",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "calidad_servicio",
+      "url": "https://www.edesur.com.ar/acerca-de-edesur/calidad-del-servicio/",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cortes",
+      "url": "https://www.edesur.com.ar/servicios-al-cliente/cortes-programados/",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    },
+    {
+      "distribuidora": "edesur",
+      "criterio": "cortes",
+      "url": "https://www.argentina.gob.ar/enre/estado-del-servicio-electrico-de-edesur",
+      "tipo": "fuente_nueva",
+      "detalle": "Primera consulta: el documento está disponible.",
+      "alerta": false
+    }
+  ]
+}
